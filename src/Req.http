@@ -1,0 +1,7 @@
+# Request endpoint from character
+GET http://localhost:3000/character
+
+###
+
+# Request endpoint from character with id
+GET http://localhost:3000/character/1
