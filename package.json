@@ -1,13 +1,13 @@
 {
   "name": "redis-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ejemplo del uso de Redis con Node.js como sistema para guardar datos de forma temporal y mejorar la velocidad al enviar datos al usuario.",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Redis", "Nodejs", "Cached", "API", "Response"],
+  "author": "DenixJG",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.24.0",
