@@ -16,7 +16,7 @@
     "response-time": "^2.3.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.14",
+    "nodemon": "^2.0.20",
     "redis-commander": "^0.8.0"
   }
 }
