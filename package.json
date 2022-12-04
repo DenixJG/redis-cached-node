@@ -17,6 +17,6 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.14",
-    "redis-commander": "^0.7.2"
+    "redis-commander": "^0.8.0"
   }
 }
